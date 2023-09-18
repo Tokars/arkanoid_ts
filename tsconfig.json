@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "outDir": "./build",
+    "baseUrl": "./src",
+    "strict": true,
+    // "module": "CommonJS",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
